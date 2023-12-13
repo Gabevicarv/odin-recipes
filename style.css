@@ -1,0 +1,8 @@
+.page-init {
+    border-style: double;
+    text-align: center;
+    border-width: 3px;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
